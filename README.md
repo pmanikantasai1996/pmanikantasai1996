@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manikantasai
 - 👀 I’m interested in ... DevOps and Cloud Security and Automation
-- 🌱 I’m currently learning ... Automationa and Cloud Security and DevOps
+- 🌱 I’m currently learning ... Automation and Cloud Security and DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
